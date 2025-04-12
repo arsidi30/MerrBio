@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\0b63e81a-93b9-4357-81ae-e31e8fe43b73.png",
+      "PackagePath": "staticwebassets\\Uploads\\0b63e81a-93b9-4357-81ae-e31e8fe43b73.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\0ff2023b-7b7b-411d-adc4-ca86f0a1f77a.png",
+      "PackagePath": "staticwebassets\\Uploads\\0ff2023b-7b7b-411d-adc4-ca86f0a1f77a.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\1145d267-33c6-4fa4-bf05-2a38bc677378.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1145d267-33c6-4fa4-bf05-2a38bc677378.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\14175da3-3598-443c-8366-e39200dc3c6e.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\14175da3-3598-443c-8366-e39200dc3c6e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\17252c36-7e4a-4f36-b0de-3b72f57dc73f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\17252c36-7e4a-4f36-b0de-3b72f57dc73f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\2.png",
+      "PackagePath": "staticwebassets\\Uploads\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\208bd0d4-1db1-438b-8382-fd47591623b0.png",
+      "PackagePath": "staticwebassets\\Uploads\\208bd0d4-1db1-438b-8382-fd47591623b0.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\217f4eeb-6e24-49b2-9b37-a0f47cd253d8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\217f4eeb-6e24-49b2-9b37-a0f47cd253d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\22.png",
+      "PackagePath": "staticwebassets\\Uploads\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\222.png",
+      "PackagePath": "staticwebassets\\Uploads\\222.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\29e2566c-14d8-432e-9ca6-020b565d84f0.png",
+      "PackagePath": "staticwebassets\\Uploads\\29e2566c-14d8-432e-9ca6-020b565d84f0.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\2a99a071-4e70-444e-b591-9454c90633c3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2a99a071-4e70-444e-b591-9454c90633c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\2b597b6d-d40f-4dff-a55b-6cb60377400a.png",
+      "PackagePath": "staticwebassets\\Uploads\\2b597b6d-d40f-4dff-a55b-6cb60377400a.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\2d9e7064-02b8-45c3-a8a1-27a818d6bb78.png",
+      "PackagePath": "staticwebassets\\Uploads\\2d9e7064-02b8-45c3-a8a1-27a818d6bb78.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\3245ee1b-9d5c-4229-83f5-25aee38efac6.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3245ee1b-9d5c-4229-83f5-25aee38efac6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\39e11f35-6dcb-4456-b498-a62fb23198db.png",
+      "PackagePath": "staticwebassets\\Uploads\\39e11f35-6dcb-4456-b498-a62fb23198db.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\3bca6255-5c3d-4274-8c11-bc6fe6390e14.png",
+      "PackagePath": "staticwebassets\\Uploads\\3bca6255-5c3d-4274-8c11-bc6fe6390e14.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\3d634176-6044-44a6-925b-c694fec20991.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3d634176-6044-44a6-925b-c694fec20991.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\3d81186c-b107-4722-974d-6a9a19e50882.png",
+      "PackagePath": "staticwebassets\\Uploads\\3d81186c-b107-4722-974d-6a9a19e50882.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\48e62a51-4779-4dd8-8ebb-cf7b0f7749fc.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\48e62a51-4779-4dd8-8ebb-cf7b0f7749fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\4df6ea96-ee96-4365-8e12-9e5d7c6173a2.png",
+      "PackagePath": "staticwebassets\\Uploads\\4df6ea96-ee96-4365-8e12-9e5d7c6173a2.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\4ec32114-fe28-4156-a96f-7759c4851095.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4ec32114-fe28-4156-a96f-7759c4851095.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\4fa92627-a958-4930-ac62-bbad51e44a79.png",
+      "PackagePath": "staticwebassets\\Uploads\\4fa92627-a958-4930-ac62-bbad51e44a79.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\52781ce1-c5e6-49c8-ba80-9a159ff3cfd5.png",
+      "PackagePath": "staticwebassets\\Uploads\\52781ce1-c5e6-49c8-ba80-9a159ff3cfd5.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\5280389c-f71b-438c-9598-36523e3ee829.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5280389c-f71b-438c-9598-36523e3ee829.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\577f8b9c-ec0b-4bfc-af68-b694bf32e239.png",
+      "PackagePath": "staticwebassets\\Uploads\\577f8b9c-ec0b-4bfc-af68-b694bf32e239.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\5e0563e9-134a-484a-b3cc-76828eb3f94d.png",
+      "PackagePath": "staticwebassets\\Uploads\\5e0563e9-134a-484a-b3cc-76828eb3f94d.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\60a1e18f-f12b-41d1-98b2-bf21028253ce.png",
+      "PackagePath": "staticwebassets\\Uploads\\60a1e18f-f12b-41d1-98b2-bf21028253ce.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\60d29f69-a8e2-4323-b39c-3bc9b7f58e68.png",
+      "PackagePath": "staticwebassets\\Uploads\\60d29f69-a8e2-4323-b39c-3bc9b7f58e68.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\6379be0d-8b6e-4672-aa1a-e047260ac639.png",
+      "PackagePath": "staticwebassets\\Uploads\\6379be0d-8b6e-4672-aa1a-e047260ac639.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\65dc5a7b-2915-4eab-8b3d-d4e6c8f05db6.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\65dc5a7b-2915-4eab-8b3d-d4e6c8f05db6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\68e51707-6d40-48d8-ba0b-591f7a2a06e7.png",
+      "PackagePath": "staticwebassets\\Uploads\\68e51707-6d40-48d8-ba0b-591f7a2a06e7.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\6f0032b9-dd1b-4837-bf3c-06db6a5141f0.png",
+      "PackagePath": "staticwebassets\\Uploads\\6f0032b9-dd1b-4837-bf3c-06db6a5141f0.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\6f983f5d-2f93-424d-83a3-e8d4f660f992.png",
+      "PackagePath": "staticwebassets\\Uploads\\6f983f5d-2f93-424d-83a3-e8d4f660f992.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\754d68b4-f1cb-46e7-a268-5e0a51c8e182.png",
+      "PackagePath": "staticwebassets\\Uploads\\754d68b4-f1cb-46e7-a268-5e0a51c8e182.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\78112906-9d24-4b2c-bc6f-0020464d4d5b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\78112906-9d24-4b2c-bc6f-0020464d4d5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\7bcb6178-02cd-414c-aa57-06aac2472cf3.png",
+      "PackagePath": "staticwebassets\\Uploads\\7bcb6178-02cd-414c-aa57-06aac2472cf3.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\7bceba7f-6791-4263-99a0-2456917a37bb.png",
+      "PackagePath": "staticwebassets\\Uploads\\7bceba7f-6791-4263-99a0-2456917a37bb.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\7fa8296d-4846-48e2-bcdb-63073dee7d43.png",
+      "PackagePath": "staticwebassets\\Uploads\\7fa8296d-4846-48e2-bcdb-63073dee7d43.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\7fe1cf97-3e8e-4430-b0a1-89cddf0506c6.png",
+      "PackagePath": "staticwebassets\\Uploads\\7fe1cf97-3e8e-4430-b0a1-89cddf0506c6.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\882fff2e-0db2-4c34-b792-219c7a94ebfe.png",
+      "PackagePath": "staticwebassets\\Uploads\\882fff2e-0db2-4c34-b792-219c7a94ebfe.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\8b79e5f0-c42d-4f96-b804-ab458c4446a1.png",
+      "PackagePath": "staticwebassets\\Uploads\\8b79e5f0-c42d-4f96-b804-ab458c4446a1.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\8b7ee4a3-3ea7-4d3a-b092-20379cd10ca6.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8b7ee4a3-3ea7-4d3a-b092-20379cd10ca6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\8bd4363f-7c76-45f4-b0ab-91d7fc53b92b.png",
+      "PackagePath": "staticwebassets\\Uploads\\8bd4363f-7c76-45f4-b0ab-91d7fc53b92b.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\8d2ff522-ef27-423f-ab36-b089ccaccb32.png",
+      "PackagePath": "staticwebassets\\Uploads\\8d2ff522-ef27-423f-ab36-b089ccaccb32.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\8eeecf30-6663-487f-ad01-723a0ed35cf4.png",
+      "PackagePath": "staticwebassets\\Uploads\\8eeecf30-6663-487f-ad01-723a0ed35cf4.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\92b86251-b2ca-43da-a33f-0f80560ec168.png",
+      "PackagePath": "staticwebassets\\Uploads\\92b86251-b2ca-43da-a33f-0f80560ec168.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\98faac15-9d80-44d1-943f-c334a00bb77e.png",
+      "PackagePath": "staticwebassets\\Uploads\\98faac15-9d80-44d1-943f-c334a00bb77e.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\99097289-df93-4034-aedf-31b56f8614ff.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\99097289-df93-4034-aedf-31b56f8614ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\9ab6e9f7-7779-41f6-ae23-25203653807f.png",
+      "PackagePath": "staticwebassets\\Uploads\\9ab6e9f7-7779-41f6-ae23-25203653807f.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\9c67a227-bd4f-4548-adea-bb8239939a8c.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9c67a227-bd4f-4548-adea-bb8239939a8c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\Artboard1.png",
+      "PackagePath": "staticwebassets\\Uploads\\Artboard1.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\Artboard2.png",
+      "PackagePath": "staticwebassets\\Uploads\\Artboard2.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\Screenshot 2025-04-12 202528.png",
+      "PackagePath": "staticwebassets\\Uploads\\Screenshot 2025-04-12 202528.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\Screenshot 2025-04-12 203908.png",
+      "PackagePath": "staticwebassets\\Uploads\\Screenshot 2025-04-12 203908.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\a0ebd2f7-4ecb-420d-a12a-0a10ca460a2a.png",
+      "PackagePath": "staticwebassets\\Uploads\\a0ebd2f7-4ecb-420d-a12a-0a10ca460a2a.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\aa9e63e4-859c-4c03-a1eb-897551ff4705.png",
+      "PackagePath": "staticwebassets\\Uploads\\aa9e63e4-859c-4c03-a1eb-897551ff4705.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\aade2592-0e3e-4fef-9034-eee952ad391e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\aade2592-0e3e-4fef-9034-eee952ad391e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\b0e64156-fbce-4e3f-9b23-ed598e6bf755.png",
+      "PackagePath": "staticwebassets\\Uploads\\b0e64156-fbce-4e3f-9b23-ed598e6bf755.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\b3051056-3eab-4564-bb03-f9ead423e487.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b3051056-3eab-4564-bb03-f9ead423e487.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\b5b8d0fe-b274-4141-bda7-4f079ac57969.png",
+      "PackagePath": "staticwebassets\\Uploads\\b5b8d0fe-b274-4141-bda7-4f079ac57969.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\b6a3d7a0-49fb-4211-8899-82bed65c5816.png",
+      "PackagePath": "staticwebassets\\Uploads\\b6a3d7a0-49fb-4211-8899-82bed65c5816.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\b7430ce7-e5e2-40a9-aa3d-9b5ca5ce550e.png",
+      "PackagePath": "staticwebassets\\Uploads\\b7430ce7-e5e2-40a9-aa3d-9b5ca5ce550e.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\bb3974a5-ca6d-4f31-a458-a3d76ef578f4.png",
+      "PackagePath": "staticwebassets\\Uploads\\bb3974a5-ca6d-4f31-a458-a3d76ef578f4.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\bf07401d-0757-46d1-8587-a5dcb6da9ddf.png",
+      "PackagePath": "staticwebassets\\Uploads\\bf07401d-0757-46d1-8587-a5dcb6da9ddf.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\c52e91cf-c68e-4541-9751-b98ff3e8e264.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c52e91cf-c68e-4541-9751-b98ff3e8e264.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\c5948215-91dc-439e-9237-a5425045a82a.png",
+      "PackagePath": "staticwebassets\\Uploads\\c5948215-91dc-439e-9237-a5425045a82a.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\cad8f956-dfcc-4f7b-b77e-e024b4e8f564.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\cad8f956-dfcc-4f7b-b77e-e024b4e8f564.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\ce1a7f12-b29e-4423-b7ed-fb24b028f7eb.png",
+      "PackagePath": "staticwebassets\\Uploads\\ce1a7f12-b29e-4423-b7ed-fb24b028f7eb.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\cf3b509d-59ce-45af-bf2f-d6a59f23affa.png",
+      "PackagePath": "staticwebassets\\Uploads\\cf3b509d-59ce-45af-bf2f-d6a59f23affa.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\d112711b-27c2-4357-89d4-140595966582.png",
+      "PackagePath": "staticwebassets\\Uploads\\d112711b-27c2-4357-89d4-140595966582.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\d1d1b6ea-15a1-428f-9d23-95c9ce02bdf8.png",
+      "PackagePath": "staticwebassets\\Uploads\\d1d1b6ea-15a1-428f-9d23-95c9ce02bdf8.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\d35e9bff-0f5e-4426-9408-eee1b7bfea37.png",
+      "PackagePath": "staticwebassets\\Uploads\\d35e9bff-0f5e-4426-9408-eee1b7bfea37.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\d4e81275-817e-444d-a353-7ec7be613d3d.png",
+      "PackagePath": "staticwebassets\\Uploads\\d4e81275-817e-444d-a353-7ec7be613d3d.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\de1c7df7-45eb-4ce0-bc78-7203f9b0cc87.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\de1c7df7-45eb-4ce0-bc78-7203f9b0cc87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\e1177b42-ed59-45e4-80f5-869532206374.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e1177b42-ed59-45e4-80f5-869532206374.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\e28fbc90-4340-47fe-a17a-26139d33f042.png",
+      "PackagePath": "staticwebassets\\Uploads\\e28fbc90-4340-47fe-a17a-26139d33f042.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\e61f6c09-cec5-4110-8b78-f5f049abeafb.png",
+      "PackagePath": "staticwebassets\\Uploads\\e61f6c09-cec5-4110-8b78-f5f049abeafb.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\eae4f6a4-61f7-4601-bd67-55971d2a37d7.png",
+      "PackagePath": "staticwebassets\\Uploads\\eae4f6a4-61f7-4601-bd67-55971d2a37d7.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\ee40dc29-2772-4671-bd05-bd8b1fcd9ddd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ee40dc29-2772-4671-bd05-bd8b1fcd9ddd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\f1cb1a6c-e880-4f45-ad68-c5caf1940a0f.png",
+      "PackagePath": "staticwebassets\\Uploads\\f1cb1a6c-e880-4f45-ad68-c5caf1940a0f.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\f358e30a-4e3f-47bf-abaa-1edfd928760b.png",
+      "PackagePath": "staticwebassets\\Uploads\\f358e30a-4e3f-47bf-abaa-1edfd928760b.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\f428e78a-1e6b-4126-8285-d3a15f3e0241.png",
+      "PackagePath": "staticwebassets\\Uploads\\f428e78a-1e6b-4126-8285-d3a15f3e0241.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\f6fb5f42-65a1-474e-a1b5-394eacdcfe49.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f6fb5f42-65a1-474e-a1b5-394eacdcfe49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\f911f21c-d6a2-4609-9f5a-794c4fab4b7c.png",
+      "PackagePath": "staticwebassets\\Uploads\\f911f21c-d6a2-4609-9f5a-794c4fab4b7c.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\fcc30df5-3174-435f-a195-1064f0d54604.png",
+      "PackagePath": "staticwebassets\\Uploads\\fcc30df5-3174-435f-a195-1064f0d54604.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\Uploads\\fed0c8ea-fe96-44dc-8859-103c4d25f7e3.png",
+      "PackagePath": "staticwebassets\\Uploads\\fed0c8ea-fe96-44dc-8859-103c4d25f7e3.png"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\chat.css",
+      "PackagePath": "staticwebassets\\css\\chat.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\mychats.css",
+      "PackagePath": "staticwebassets\\css\\mychats.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FarmIt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FarmIt.props",
+      "PackagePath": "build\\FarmIt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FarmIt.props",
+      "PackagePath": "buildMultiTargeting\\FarmIt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FarmIt.props",
+      "PackagePath": "buildTransitive\\FarmIt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
