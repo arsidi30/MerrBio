@@ -1,0 +1,92 @@
+﻿
+@{
+
+    string username = User.Identity.Name;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MerrBio</title>
+    <link rel="stylesheet" href="/css/style.css"  asp-append-version="true">
+    <link rel="stylesheet" href="/css/forms.css" asp-append-version="true">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="/images/movie_filter_FILL0_wght400_GRAD0_opsz48.svg">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.20.3/video-js.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.20.3/video.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-http-streaming/3.12.3/videojs-http-streaming.min.js"></script>
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="logo">
+            
+            <img src="/Uploads/22.png" alt="Farm It Logo">
+        </div>
+         <ul class="nav-link">
+            <li><a class="active" href="/Home/Index">Kreu</a></li>
+            <li><a href="/Home/Produkte">Produkte</a></li>
+            <li><a href="/Home/About">Rreth Nesh</a></li>
+          @if (!string.IsNullOrEmpty(username))
+            {
+                <li>
+                    <a href="#">@User.Identity.Name <i class="fa fa-caret-down"></i></a>
+
+                    <ul class="dropdown-nav-link">
+                        <li><a href="/Category/Add">Kategorite</a></li>
+                        <li><a href="/Product/Add">Produkte</a></li>
+                        <li><a href="/Chat/MyChats">Bisedat</a></li>
+                        <li><a href="/UserAuthentication/Logout">Logout</a></li>
+                    </ul>
+                </li>
+            }
+           
+            @if (string.IsNullOrEmpty(username))
+            {
+                <li><a href="/UserAuthentication/Login">Login</a></li>
+            }
+        </ul>
+    </nav>
+    @{
+        var controller = ViewContext.RouteData.Values["controller"]?.ToString();
+
+        var action = ViewContext.RouteData.Values["action"]?.ToString();
+
+
+
+        var isHome = controller == "Home" && action == "Index";
+
+        var isAbout = controller == "Home" && action == "About";
+    }
+    @if (isHome)
+    {
+        <div class="container-index">
+            @RenderBody()
+        </div>
+    }
+    else if (isAbout)
+
+    {
+        <div class="container-about">
+            @RenderBody()
+        </div>
+    }
+
+
+
+    else{
+    <div class="container">
+        @RenderBody()
+    </div>
+    }
+    <footer>
+        &#169; @DateTime.UtcNow.Year MerrBio
+    </footer>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

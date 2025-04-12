@@ -1,0 +1,26 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "My Chats";
+}
+
+<link rel="stylesheet" href="~/css/mychats.css" />
+
+<div class="my-chats-container">
+    <h2>@ViewData["Title"]</h2>
+
+    <div class="chat-list">
+        @foreach (var user in Model)
+        {
+            <div class="chat-item">
+                <div class="chat-avatar">
+                    <img src="https://ui-avatars.com/api/?name=@user&background=random" alt="@user" />
+                </div>
+                <div class="chat-info">
+                    <h3>@user</h3>
+                    <p>Last message preview...</p>  <!-- Optionally add last message -->
+                </div>
+                <a href="/Chat/Start?recipient=@user" class="chat-link">Fillo Bisede</a>
+            </div>
+        }
+    </div>
+</div>

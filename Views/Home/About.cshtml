@@ -1,0 +1,84 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<style>
+    
+    .welcome-section {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        
+       
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: white;
+    }
+
+    .welcome-section h1 {
+        font-size: 4rem;
+        font-weight: bold;
+        margin-bottom: 20px;
+        text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    }
+
+    .welcome-section .btn-group {
+        display: flex;
+        gap: 20px;
+    }
+
+    .welcome-section .btn {
+        padding: 10px 20px;
+        font-size: 1.2rem;
+        border: none;
+        border-radius: 5px;
+        background-color: #ff7f50;
+        color: white;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
+
+    .welcome-section .btn:hover {
+        background-color: #e76f3c;
+    }
+
+    .upper-left {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        padding: 15px;
+        font-size: 1.2rem;
+        color: white;
+        padding: 2rem;
+        width: 100%;
+        max-width: 40%;
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+        font-family: var(--font-mukta)
+    }
+
+    .lower-left {
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+        padding: 15px;
+        padding: 2rem;
+        width: 100%;
+        font-size: 1.2rem;
+        color: white;
+        max-width: 40%;
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+        font-family: var(--font-mukta)
+</style>
+
+<section class="welcome-section">
+    <p class="upper-left">
+        Në MerrBio, besojmë se ushqimi është më shumë se një nevojë – është një eksperiencë e pasur që na lidh me natyrën dhe me njëri-tjetrin. Kjo faqe është krijuar për të sjellë freskinë e produkteve bio direkt nga fermerët shqiptarë në tryezat tuaja. Ne e mbështesim një model të qëndrueshëm, që nxit zhvillimin e bujqësisë organike dhe të qëndrueshme, duke ofruar mundësinë për të blerë produkte të freskëta dhe të shëndetshme, të cilat janë rritur me dashuri dhe përkujdesje.
+
+    </p>
+
+    <!-- Lower Left Paragraph -->
+    <p class="lower-left">MerrBio është lidhja mes fermerëve të zonave rurale dhe konsumatorëve të pasionuar për ushqimin bio. Këtu mund të gjeni fruta, perime, mishra, peshk, bulmete dhe vera të shëndetshme, të cilat vijnë drejtpërdrejt nga burimi. Faqja jonë ju mundëson të bëni porosi, të komunikoni me fermerët dhe të zbuloni produkte të ndryshme, gjithmonë duke mbajtur parasysh cilësinë dhe shëndetin tuaj. Jemi këtu për të sjellë natyrën më afër jush!</p>
+</section>
