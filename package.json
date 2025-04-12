@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "video.js": "^8.22.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.23.0"
+  }
+}
