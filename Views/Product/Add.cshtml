@@ -1,0 +1,65 @@
+﻿@model FarmIt.Models.Domain.Product
+@{
+}
+
+<form class="w-40" asp-action="Add" method="post" enctype="multipart/form-data">
+    <h2 class="pb-10">Shto Produkt</h2>
+
+    <div class="input-container">
+        <label asp-for="Title" class="w-40">Emri i produktit</label>
+        <input type="text" class="input" asp-for="Title">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="Title"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="EmriIFermerit" class="w-40">Emri i Fermerit</label>
+        <input type="text" class="input" asp-for="EmriIFermerit">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="EmriIFermerit"> </span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="ProductImage" class="w-40">Imazhi</label>
+        <input type="file" asp-for="ImageFile">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="ImageFile"> </span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="Categorys" class="w-40">Kategoria</label>
+        <select asp-items="Model.CategoryList" class="input" asp-for="Categorys" multiple>
+            <option value="">--select--</option>
+        </select>
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="Categorys"> </span>
+    </div>
+
+    
+
+    
+    <div class="input-container">
+        <label asp-for="Description" class="w-40">Pershkrimi</label>
+        <textarea class="input" asp-for="Description"></textarea>
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="Description"> </span>
+    </div>
+    
+
+    @if (TempData["msg"] != null)
+
+    {
+        <div class="alert mb-1">
+            @TempData["msg"]
+        </div>
+    }
+
+    <div class="input-container">
+        <button class="btn btn-default" type="submit">Ruaj</button>
+        <a class="btn btn-sec" href="/Product/ProductList">Te Gjitha</a>
+    </div>
+</form>

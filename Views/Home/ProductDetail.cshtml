@@ -1,0 +1,22 @@
+﻿@model FarmIt.Models.Domain.Product
+@{
+}
+<div class="product-detail w-80 m-auto">
+    <div class="img-container">
+        <img alt="image" src="/Uploads/@Model.ProductImage">
+    </div>
+
+    <div class="detail-container">
+        <h3>@Model.Title</h3>
+        <h3>@Model.EmriIFermerit</h3>
+        <h4>Category : @Model.Categorys</h4>
+        <h4>Description : @Model.Description</h4>  
+    </div>
+</div>
+
+<div class="w-80 m-auto">
+    <a href="/Home/Index" class="btn btn-default">Kthehu</a>
+    <a href="/Chat/Start?recipient=@Model.EmriIFermerit" class="btn btn-default" style="margin-left: 10px;">
+        Bisedo
+    </a>
+</div>

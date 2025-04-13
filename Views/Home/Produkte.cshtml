@@ -1,0 +1,47 @@
+﻿@model FarmIt.Models.DTO.ProductListVm
+
+@{
+
+    Layout = "_Layout";
+}
+<section class="search-bar">
+    <form method="get" asp-action="Produkte">
+        <input type="text" name="term" placeholder="kerko ketu">
+        <button type="submit"><i class="fa fa-search"></i></button>
+        <a class="btn btn-default" href="/Home/Produkte">All</a>
+    </form>
+</section>
+<section class="products">
+    @foreach (var product in Model.ProductList)
+    {
+        <div class="product-card" onclick="window.location.href='/Home/ProductDetail?productId=@product.Id'">
+            <div class="product-image">
+                <img src="/Uploads/@product.ProductImage">
+            </div>
+            <div class="product-info">
+                <h4>@product.Title</h4>
+                <h4>@product.CategoryNames</h4>
+                <h4>@product.EmriIFermerit</h4>
+                
+                @* <h4>Cast : @product.Cast</h4>
+            <h4>Director : @product.Director</h4>*@
+            </div>
+        </div>
+    }
+</section>
+
+<div class="pagination">
+    @for (int i = 1; i <= Model.TotalPages; i++)
+    {
+        if (i == Model.CurrentPage)
+        {
+            <a href="/Home/Produkte?currentPage=@i&term=@Model.Term" class="active">@i</a>
+        }
+        else
+        {
+            <a href="/Home/Produkte?currentPage=@i&term=@Model.Term">@i</a>
+
+        }
+    }
+
+</div>
