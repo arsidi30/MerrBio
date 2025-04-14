@@ -6,7 +6,7 @@ using FarmIt.Repositories.Implementation;
 using FarmIt.Respositories.Abstract;
 using FarmIt.Respositories.Implimentation;
 
-namespace FarmIt
+namespace Cooking
 {
     public class Program
     {
@@ -19,7 +19,7 @@ namespace FarmIt
             builder.Services.AddScoped<IUserAuthenticationService, UserAuthenticationService>();
             builder.Services.AddScoped<ICategoryService, CategoryService>();
             builder.Services.AddScoped<IFileService, FileService>();
-            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<IRecepiesService, RecepiesService>();
             
 
 

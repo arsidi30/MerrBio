@@ -3063,12 +3063,14 @@ fieldset[disabled] a.btn {
     color: #333;
     background-color: rgb(43, 61, 42);
     border-color: #ccc;
+    z-index: 11;
 }
     .btn-default:focus,
     .btn-default.focus {
         color: #333;
         background-color: rgb(43, 61, 42);
         border-color: #8c8c8c;
+        z-index: 11;
     }
 .btn-default:hover {
   color: #333;

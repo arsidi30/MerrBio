@@ -11,10 +11,10 @@ namespace FarmIt.Controllers
     [Authorize(Roles = "Fermer,Admin")]
     public class ProductController : Controller
     {
-        private readonly IProductService _productService;
+        private readonly IRecepiesService _productService;
         private readonly IFileService _fileService;
         private readonly ICategoryService _catService;
-        public ProductController(ICategoryService catService,IProductService ProductService, IFileService fileService)
+        public ProductController(ICategoryService catService,IRecepiesService ProductService, IFileService fileService)
         {
             _productService = ProductService;
             _fileService = fileService;
@@ -22,13 +22,13 @@ namespace FarmIt.Controllers
         }
         public IActionResult Add()
         {
-            var model = new Product();
+            var model = new Recepies();
             model.CategoryList = _catService.List().Select(a => new SelectListItem { Text = a.CategoryName, Value = a.Id.ToString() });
             return View(model);
         }
 
         [HttpPost]
-        public IActionResult Add(Product model)
+        public IActionResult Add(Recepies model)
         {
             model.CategoryList = _catService.List().Select(a => new SelectListItem { Text = a.CategoryName, Value = a.Id.ToString() });
             if (!ModelState.IsValid)
@@ -67,7 +67,7 @@ namespace FarmIt.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(Product model)
+        public IActionResult Edit(Recepies model)
         {
             var selectedCategorys = _productService.GetCategoryByProductId(model.Id);
             MultiSelectList multiCategoryList = new MultiSelectList(_catService.List(), "Id", "CategoryName", selectedCategorys);

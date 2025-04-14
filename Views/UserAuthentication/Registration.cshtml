@@ -2,16 +2,16 @@
 @{
 }
 <form class="w-40" asp-action="Registration" method="post">
-    <h2 class="pb-10">Registration</h2>
+    <h2 class="pb-10">Regjistrohu</h2>
     <div class="input-container">
-        <label asp-for="Username" class="w-40">Username</label>
+        <label asp-for="Username" class="w-40">Emri i perdoruesit</label>
         <input type="text" class="input" asp-for="Username">
     </div>
     <div class="message-box pd-x-28 error">
         <span asp-validation-for="Username"></span>
     </div>
     <div class="input-container">
-        <label asp-for="Name" class="w-40">Name</label>
+        <label asp-for="Name" class="w-40">Emri</label>
         <input type="name" class="input" asp-for="Name">
     </div>
     <div class="message-box pd-x-28 error">
@@ -32,17 +32,17 @@
         <span asp-validation-for="Password"></span>
     </div>
     <div class="input-container">
-        <label asp-for="PasswordConfirmation" class="w-40">PasswordConfirmation</label>
+        <label asp-for="PasswordConfirmation" class="w-40">Konfirmo Passwordin</label>
         <input type="passwordConfirmation" class="input" asp-for="PasswordConfirmation">
     </div>
     <div class="message-box pd-x-28 error">
         <span asp-validation-for="PasswordConfirmation"></span>
     </div>
     <div class="form-group">
-        <label asp-for="Role">Register as:</label>
+        <label asp-for="Role">Regjistrohu si:</label>
         <select asp-for="Role" class="form-control">
-            <option value="Konsumator">Konsumator</option>
-            <option value="Fermer">Fermer</option>
+            <option value="Konsumator">User</option>
+            
             
         </select>
     </div>
@@ -60,7 +60,7 @@
     }
 
     <div class="input-container">
-        <button class="btn btn-default" type="submit">Register</button>
+        <button class="btn btn-default" type="submit">Regjistrohu</button>
         @*<a class="btn btn-sec" href="#">Add more</a>*@
     </div>
 

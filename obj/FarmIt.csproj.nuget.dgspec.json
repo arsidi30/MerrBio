@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arsid\\Desktop\\FarmIt\\FarmIt.csproj": {}
+    "C:\\Users\\arsid\\Desktop\\Cooking\\FarmIt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arsid\\Desktop\\FarmIt\\FarmIt.csproj": {
+    "C:\\Users\\arsid\\Desktop\\Cooking\\FarmIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arsid\\Desktop\\FarmIt\\FarmIt.csproj",
+        "projectUniqueName": "C:\\Users\\arsid\\Desktop\\Cooking\\FarmIt.csproj",
         "projectName": "FarmIt",
-        "projectPath": "C:\\Users\\arsid\\Desktop\\FarmIt\\FarmIt.csproj",
+        "projectPath": "C:\\Users\\arsid\\Desktop\\Cooking\\FarmIt.csproj",
         "packagesPath": "C:\\Users\\arsid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arsid\\Desktop\\FarmIt\\obj\\",
+        "outputPath": "C:\\Users\\arsid\\Desktop\\Cooking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

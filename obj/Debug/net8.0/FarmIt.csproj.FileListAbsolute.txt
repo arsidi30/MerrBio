@@ -562,3 +562,4 @@ C:\Users\arsid\Desktop\FarmIt\obj\Debug\net8.0\refint\FarmIt.dll
 C:\Users\arsid\Desktop\FarmIt\obj\Debug\net8.0\FarmIt.pdb
 C:\Users\arsid\Desktop\FarmIt\obj\Debug\net8.0\FarmIt.genruntimeconfig.cache
 C:\Users\arsid\Desktop\FarmIt\obj\Debug\net8.0\ref\FarmIt.dll
+C:\Users\arsid\Desktop\FarmIt\obj\Debug\net8.0\FarmIt.sourcelink.json

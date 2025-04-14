@@ -8,9 +8,9 @@ namespace FarmIt.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IProductService _productService;
+        private readonly IRecepiesService _productService;
         
-        public HomeController(IProductService productService)
+        public HomeController(IRecepiesService productService)
         {
             _productService = productService;
             

@@ -108,35 +108,7 @@ namespace FarmIt.Migrations
                     b.ToTable("Category");
                 });
 
-            modelBuilder.Entity("FarmIt.Models.Domain.ChatMessage", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("MessageText")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("RecipientUsername")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("SenderUsername")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("Timestamp")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("ChatMessages");
-                });
-
-            modelBuilder.Entity("FarmIt.Models.Domain.Product", b =>
+            modelBuilder.Entity("FarmIt.Models.Domain.Recepies", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -161,10 +133,10 @@ namespace FarmIt.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Product");
+                    b.ToTable("Recepies");
                 });
 
-            modelBuilder.Entity("FarmIt.Models.Domain.ProductCategory", b =>
+            modelBuilder.Entity("FarmIt.Models.Domain.RecepiesCategory", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -180,7 +152,7 @@ namespace FarmIt.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ProductCategory");
+                    b.ToTable("RecepiesCategory");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

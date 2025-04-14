@@ -26,11 +26,12 @@
     <nav class="nav-bar">
         <div class="logo">
             
-            <img src="/Uploads/22.png" alt="Farm It Logo">
+            <img src="/Uploads/Logo5.png" alt="CookingWIthBerry Logo" class="img-fluid" style="max-width: 60px">
         </div>
-         <ul class="nav-link">
+        <div class="burger" id="burger">&#9776;</div>
+        <ul class="nav-link" id="nav-links">
             <li><a class="active" href="/Home/Index">Kreu</a></li>
-            <li><a href="/Home/Produkte">Produkte</a></li>
+            <li><a href="/Home/Produkte">Receta</a></li>
             <li><a href="/Home/About">Rreth Nesh</a></li>
           @if (!string.IsNullOrEmpty(username))
             {
@@ -88,5 +89,16 @@
         &#169; @DateTime.UtcNow.Year MerrBio
     </footer>
     @RenderSection("Scripts", required: false)
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const burger = document.getElementById("burger");
+            const navLinks = document.getElementById("nav-links");
+
+            burger.addEventListener("click", () => {
+                navLinks.classList.toggle("show");
+            });
+        });
+    </script>
 </body>
 </html>

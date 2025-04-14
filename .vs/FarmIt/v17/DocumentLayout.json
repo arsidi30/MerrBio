@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\arsid\\Desktop\\FarmIt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\home\\produkte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\home\\produkte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\chat\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\chat\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\wwwroot\\css\\forms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:wwwroot\\css\\forms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:wwwroot\\css\\chat.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\home\\produkte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\home\\produkte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|c:\\users\\arsid\\desktop\\farmit\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A4926AE-BBE8-4FC4-BEE2-B2975FFC0998}|FarmIt.csproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,102 +42,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T11:08:19.539Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Start.cshtml",
-              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Chat\\Start.cshtml",
-              "RelativeDocumentMoniker": "Views\\Chat\\Start.cshtml",
-              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Chat\\Start.cshtml",
-              "RelativeToolTip": "Views\\Chat\\Start.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T21:05:44.162Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Produkte.cshtml",
-              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Home\\Produkte.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Produkte.cshtml",
-              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Home\\Produkte.cshtml",
-              "RelativeToolTip": "Views\\Home\\Produkte.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T21:05:15.274Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAABQMAAAAAAAAAAAnwAUMAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T11:51:08.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductList.cshtml",
-              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Product\\ProductList.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\ProductList.cshtml",
-              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Product\\ProductList.cshtml",
-              "RelativeToolTip": "Views\\Product\\ProductList.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T21:04:42.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
               "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADwAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAnwDsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T21:04:26.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T11:50:53.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Product\\Add.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Add.cshtml",
-              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Product\\Add.cshtml",
-              "RelativeToolTip": "Views\\Product\\Add.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAABEAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "forms.css",
+              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\forms.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\forms.css",
+              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\forms.css",
+              "RelativeToolTip": "wwwroot\\css\\forms.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T11:48:07.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produkte.cshtml",
+              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Home\\Produkte.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Produkte.cshtml",
+              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Home\\Produkte.cshtml",
+              "RelativeToolTip": "Views\\Home\\Produkte.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T21:04:09.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T11:44:25.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T11:42:26.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAMwHYBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T11:41:15.18Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "chat.css",
-              "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\chat.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\chat.css",
-              "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\wwwroot\\css\\chat.css",
-              "RelativeToolTip": "wwwroot\\css\\chat.css",
-              "ViewState": "AgIAABcAAAAAAAAAAAAnwCIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-12T21:03:49.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProductDetail.cshtml",
               "DocumentMoniker": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Home\\ProductDetail.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ProductDetail.cshtml",
               "ToolTip": "C:\\Users\\arsid\\Desktop\\FarmIt\\Views\\Home\\ProductDetail.cshtml",
               "RelativeToolTip": "Views\\Home\\ProductDetail.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T21:03:37.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T11:39:21.29Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d84O44uiKxQ=",
+  "dgSpecHash": "+bxAmXSoeu8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\arsid\\Desktop\\FarmIt\\FarmIt.csproj",
+  "projectFilePath": "C:\\Users\\arsid\\Desktop\\Cooking\\Cooking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arsid\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\arsid\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

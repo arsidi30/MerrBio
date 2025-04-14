@@ -12,9 +12,9 @@ namespace FarmIt.Models.Domain
         }
 
         public DbSet<Category> Category { get; set; }
-        public DbSet<ProductCategory> ProductCategory { get; set; }
-        public DbSet<Product> Product { get; set; }
-        public DbSet<ChatMessage> ChatMessages { get; set; }
+        public DbSet<RecepiesCategory> RecepiesCategory { get; set; }
+        public DbSet<Recepies> Recepies { get; set; }
+       
 
 
 

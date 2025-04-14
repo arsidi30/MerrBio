@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FarmIt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68fccaeaef377a005cdfc7a1ad7930b636dc2f5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FarmIt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FarmIt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

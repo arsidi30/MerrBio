@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using FarmIt.Models.DTO;
+using Cooking.Models.DTO;
 using FarmIt.Respositories.Abstract;
 
-namespace FarmIt.Controllers
+namespace Cooking.Controllers
 {
     public class UserAuthenticationController : Controller
     {

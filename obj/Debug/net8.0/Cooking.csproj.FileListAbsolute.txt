@@ -1,0 +1,9 @@
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.csproj.AssemblyReference.cache
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.AssemblyInfoInputs.cache
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.AssemblyInfo.cs
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.RazorAssemblyInfo.cache
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.RazorAssemblyInfo.cs
+C:\Users\arsid\Desktop\Cooking\obj\Debug\net8.0\Cooking.sourcelink.json

@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
-using FarmIt.Models.Domain;
+using Cooking.Models.Domain;
 using FarmIt.Models.DTO;
 using FarmIt.Respositories.Abstract;
 
-namespace FarmIt.Respositories.Implimentation
+namespace Cooking.Respositories.Implimentation
 {
     public class UserAuthenticationService : IUserAuthenticationService
     {
